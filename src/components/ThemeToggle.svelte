@@ -28,12 +28,12 @@
 >
     {#if $darkMode}
         <iconify-icon
-            class="rounded-lg text-4xl outline outline-slate-200 hover:bg-slate-200 hover:text-slate-800 transition-colors duration-50"
+            class="rounded-lg text-4xl outline outline-slate-200 hover:bg-slate-200 hover:text-slate-800 duration-50"
             icon="mdi:weather-night"
         />
     {:else}
         <iconify-icon
-            class="rounded-lg text-4xl outline outline-slate-800 hover:bg-slate-800 hover:text-slate-200 transition-colors duration-50"
+            class="rounded-lg text-4xl outline outline-slate-800 hover:bg-slate-800 hover:text-slate-200 duration-50"
             icon="mdi:weather-sunny"
         />
     {/if}

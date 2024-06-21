@@ -27,7 +27,7 @@ const { title } = Astro.props;
         <div class="flex-none">
             <Header client:load />
         </div>
-        <div class="flex-auto">
+        <div class="flex-auto p-24">
             <slot />
         </div>
         <div class="flex-none">
@@ -35,9 +35,3 @@ const { title } = Astro.props;
         </div>
     </body>
 </html>
-
-<style lang="postcss">
-    * {
-        @apply transition-colors duration-150
-    }
-</style>

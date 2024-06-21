@@ -1,15 +1,80 @@
-<div class="p-24">
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
-        <p class="text-2xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur explicabo?</p>
+<div class="">
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
+	<p class="text-2xl">
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat rerum
+		voluptatibus quo, ab inventore quidem perspiciatis autem aut nemo sequi
+		suscipit, totam quisquam ipsa! At fugiat rerum iure aspernatur
+		explicabo?
+	</p>
 </div>

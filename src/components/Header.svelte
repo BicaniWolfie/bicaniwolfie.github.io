@@ -22,8 +22,7 @@
     })
 </script>
 
-
-<div class={"w-full h-16 p-4 flex transition-colors justify-between fixed " + (scrolling?"bg-slate-200 dark:bg-slate-900":"")}>
+<div class="w-full h-16 p-4 flex justify-between fixed {scrolling?"bg-slate-200 dark:bg-slate-900":"bg-slate-200/0 dark:bg-slate-900/0"}">
     <div class="flex px-2 gap-8">
         <div class ="text-xl flex justify-center items-center gap-2">
             {#each refs as ref}
