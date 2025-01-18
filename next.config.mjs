@@ -3,8 +3,8 @@ const nextConfig = {
     i18n: {
         locales: ['en', 'dk'],
         defaultLocale: 'en',
-    },
-    output: 'export'
+        localeDetection: false
+    }
 };
 
 export default nextConfig;
